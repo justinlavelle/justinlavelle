@@ -1,6 +1,6 @@
-### Hi there 👋
+<!--### Hi there 👋
 
-<!--
+
 **justinlavelle/justinlavelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ![Metrics](https://metrics.lecoq.io/justinlavelle?template=terminal&isocalendar=1&languages=1&activity=1&achievements=1&tweets=1&starlists=1&repositories=1&lines=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&starlists.limit=2&starlists.limit.repositories=2&starlists.shuffle.repositories=true&tweets.attachments=true&tweets.limit=2&tweets.user=.user.twitter&config.timezone=Africa%2FJohannesburg)
