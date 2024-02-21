@@ -1,3 +1,5 @@
+[![Metrics](https://github.com/justinlavelle/justinlavelle/actions/workflows/blank.yml/badge.svg)](https://github.com/justinlavelle/justinlavelle/actions/workflows/blank.yml)
+
 <!--### Hi there 👋
 
 
