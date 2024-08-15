@@ -52,3 +52,7 @@ jobs:
           plugin_stargazers_charts: yes
           plugin_stargazers_charts_type: classic
           plugin_stargazers_days: 14
+
+          - name: Metrics embed
+          uses: lowlighter/metrics@v3.34
+            
