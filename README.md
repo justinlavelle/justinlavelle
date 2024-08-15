@@ -1,7 +1,6 @@
 [![Metrics](https://github.com/justinlavelle/justinlavelle/actions/workflows/blank.yml/badge.svg)](https://github.com/justinlavelle/justinlavelle/actions/workflows/blank.yml)
 
-<!--### Hi there 👋
-
+<!--### Hi there 👋 
 
 **justinlavelle/justinlavelle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
