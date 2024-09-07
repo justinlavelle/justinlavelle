@@ -15,5 +15,3 @@
 [![](https://visitcount.itsvg.in/api?id=justinlavelle&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Here goes the custom Readme stuff -->
-![Metrics](https://metrics.lecoq.io/justinlavelle?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Africa%2FJohannesburg)
